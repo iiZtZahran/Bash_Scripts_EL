@@ -42,4 +42,4 @@ done
 
 echo "Files organized successfully."
 
-#tree "$DIR"
+#tree "$DIR" ##to show the tree
